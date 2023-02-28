@@ -1,0 +1,2 @@
+# scopeClosureJd
+cursoPLatzi
